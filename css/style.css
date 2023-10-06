@@ -6,6 +6,9 @@
     --dark: #1E1916;
 }
 
+textarea{
+	resize: none;
+}
 .sobe{
 	align-items:right;
 	justify-content: right;
